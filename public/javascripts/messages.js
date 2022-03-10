@@ -7,14 +7,14 @@ const messages = [
     description:
       'I personally think Pizza Hut beats Blaze Pizza, but each to their own... I also dig Hungry Howie’s and their wings. Dominoes is alright. Papa John’s if I’m really desperate.',
     username: 'Armando',
-    date: date1.toLocaleString(),
+    date: date1,
   },
   {
     title: 'Blaze Pizza',
     description:
       'I just tried Blaze Pizza for the first time and I love it! What is everybody’s go-to order at Blaze?',
     username: 'Laurie',
-    date: date2.toLocaleString(),
+    date: date2,
   },
 ];
 
